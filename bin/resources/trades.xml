@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<trades>
+	<trade>
+		<timestamp>2016-05-23 22:52:27.345+03:00</timestamp>
+		<tradeIndicator>BUY</tradeIndicator>
+		<tradePrice>10.0</tradePrice>
+		<tradeQuantityShares>100</tradeQuantityShares>
+		<tradeStock>
+			<stockSymbol>TEA</stockSymbol>
+			<stockType>COMMON</stockType>
+			<lastDividend>8</lastDividend>
+			<fixedDividend>0</fixedDividend>
+			<parValue>100</parValue>
+			<tickerPrice>100</tickerPrice>
+		</tradeStock>
+	</trade>
+	<trade>
+		<timestamp>2016-05-23 22:51:27.345+03:00</timestamp>
+		<tradeIndicator>BUY</tradeIndicator>
+		<tradePrice>20.0</tradePrice>
+		<tradeQuantityShares>100</tradeQuantityShares>
+		<tradeStock>
+			<stockSymbol>POP</stockSymbol>
+			<stockType>COMMON</stockType>
+			<lastDividend>8</lastDividend>
+			<fixedDividend>0</fixedDividend>
+			<parValue>100</parValue>
+			<tickerPrice>100</tickerPrice>
+		</tradeStock>
+	</trade>
+	<trade>
+		<timestamp>2016-05-23 22:53:27.345+03:00</timestamp>
+		<tradeIndicator>BUY</tradeIndicator>
+		<tradePrice>30.0</tradePrice>
+		<tradeQuantityShares>100</tradeQuantityShares>
+		<tradeStock>
+			<stockSymbol>ALE</stockSymbol>
+			<stockType>COMMON</stockType>
+			<lastDividend>23</lastDividend>
+			<fixedDividend>0</fixedDividend>
+			<parValue>60</parValue>
+			<tickerPrice>100</tickerPrice>
+		</tradeStock>
+	</trade>
+	<trade>
+		<timestamp>2016-05-23 20:52:27.345+03:00</timestamp>
+		<tradeIndicator>BUY</tradeIndicator>
+		<tradePrice>13.0</tradePrice>
+		<tradeQuantityShares>100</tradeQuantityShares>
+		<tradeStock>
+			<stockSymbol>GIN</stockSymbol>
+			<stockType>PREFERRED</stockType>
+			<lastDividend>8</lastDividend>
+			<fixedDividend>2</fixedDividend>
+			<parValue>100</parValue>
+			<tickerPrice>100</tickerPrice>
+		</tradeStock>
+	</trade>
+</trades>

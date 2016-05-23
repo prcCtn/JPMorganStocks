@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<trade>
+    <timestamp>2016-05-23T21:48:57.401+03:00</timestamp>
+    <tradeIndicator>BUY</tradeIndicator>
+    <tradePrice>13.0</tradePrice>
+    <tradeQuantityShares>100</tradeQuantityShares>
+    <tradeStock>
+        <fixedDividend>0.0</fixedDividend>
+        <lastDividend>0.0</lastDividend>
+        <parValue>0.0</parValue>
+        <stockType>COMMON</stockType>
+        <tickerPrice>0.0</tickerPrice>
+    </tradeStock>
+</trade>
